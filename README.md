@@ -1,2 +1,2 @@
-# kedar.sharma.io
+# Kedar Sharma
 It is my website
