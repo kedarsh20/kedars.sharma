@@ -1,0 +1,23 @@
+title: "Kedar Sharma"
+description: "Computational materials science • Magnetism • DFT (VASP) • HPC"
+theme: minima
+
+# Optional: show links in header
+header_pages:
+  - research.md
+  - publications.md
+  - cv.md
+  - teaching.md
+  - talks.md
+  - contact.md
+
+# Build settings
+markdown: kramdown
+
+# Optional: social/usernames (minima uses these if present)
+github_username: kedarsh20
+linkedin_username: https://www.linkedin.com/in/kedar-sharma-588146ba/
+# twitter_username: yourtwitter
+
+# Optional: set your timezone
+timezone: Europe/Paris
